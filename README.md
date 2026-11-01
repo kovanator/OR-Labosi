@@ -4,7 +4,5 @@
 - Autor : Marko Kovačev
 - Verzija : 1.0
 - Jezik : Hrvatski
-- Broj instanci : 
-- Broj atributa : 
-- Raspon datuma : 
+
 
